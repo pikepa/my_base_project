@@ -10,7 +10,7 @@
 
     </head>
     <body class="bg-sky-100">
-        <div class="bg-red-50 max-w-5xl mx-auto my-12 p-6">
+        <div class="bg-red-50 max-w-5xl mx-auto  p-6">
             {{ $slot }}
         </div>
     </body>
